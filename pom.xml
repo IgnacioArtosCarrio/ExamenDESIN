@@ -29,7 +29,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>interfaz.MainWindow</mainClass>
+                            <mainClass>interfaz.InterfazLogin</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
