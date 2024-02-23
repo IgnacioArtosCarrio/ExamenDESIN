@@ -34,6 +34,7 @@ public class InterfazLogin {
         EventQueue.invokeLater(new Runnable() {
             public void run() {
                 try {
+                    //es una prueba
                     interfaz.InterfazLogin window = new interfaz.InterfazLogin();
                     window.frmVolvologin.setVisible(true);
                 } catch (Exception e) {
